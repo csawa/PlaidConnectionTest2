@@ -4,7 +4,7 @@ import { create, open, dismissLink, LinkSuccess, LinkExit, LinkIOSPresentationSt
 import { router } from "expo-router";
 
 // const BACKEND_IP = "192.168.7.243";
-const BACKEND_IP = "10.19.89.203";
+const BACKEND_IP = "10.19.159.221";
 const BACKEND_URL = `http://${BACKEND_IP}:8080`;
 const sessionId = Math.random().toString(36).substring(2);
 
